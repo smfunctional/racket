@@ -1,4 +1,5 @@
 #Racket learning exercises
 
 ###Resources
-[Scheme Class Notes](https://www.cs.rpi.edu/~cutler/6.001/S04/)
+1. [Scheme Class Notes](https://www.cs.rpi.edu/~cutler/6.001/S04/)
+2. [Racket Basics](https://courses.cs.washington.edu/courses/cse341/12au/racket/)
