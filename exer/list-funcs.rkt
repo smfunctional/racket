@@ -17,6 +17,9 @@
     [`(,head . ,tail)
      `(,head . ,(append-2 tail L2))]))
 
+;Enable trace on append-2     
+(trace append-2)
+
 ;Test cases
 (module+ test
   (require rackunit)
