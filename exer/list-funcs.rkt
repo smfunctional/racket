@@ -17,6 +17,11 @@
     [`(,head . ,tail)
      `(,head . ,(append-2 tail L2))]))
 
+;Test cases
+(module+ test
+  (require rackunit)
+  (check-equal? (append-2 '( 2 3 0) '(4 5 6)) '(2 3 0 4 5 6)))
+
 (append-r '( 1 2 3) '(4 5 6))
 (append-t '( 1 2 3 7) '(4 5 6))
 (append-2 '( 1 2 3 7) '(4 5 6))
