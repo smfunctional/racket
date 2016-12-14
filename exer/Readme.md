@@ -5,3 +5,5 @@
 2. [Racket Basics](https://courses.cs.washington.edu/courses/cse341/12au/racket/)
 3. [Higher Order List Operations](http://matt.might.net/articles/higher-order-list-operations/)
 4. [Functional Programming Notes](https://sites.ualberta.ca/~jhoover/325/CourseNotes/section/contents.htm)
+5. [Mike Butterick](http://mstill.io/blog/)
+6. [Beautiful Racket](http://beautifulracket.com/)
