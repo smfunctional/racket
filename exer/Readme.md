@@ -7,3 +7,4 @@
 4. [Functional Programming Notes](https://sites.ualberta.ca/~jhoover/325/CourseNotes/section/contents.htm)
 5. [Mike Butterick](http://mstill.io/blog/)
 6. [Beautiful Racket](http://beautifulracket.com/)
+7. [Github repo - Stephen Chang](https://github.com/stchang)
